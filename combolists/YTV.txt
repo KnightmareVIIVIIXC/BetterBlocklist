@@ -3,7 +3,7 @@
 ! Description: YouTube, TV
 ! Homepage: https://github.com/KnightmareVIIVIIXC/BetterBlocklist
 ! License: MIT
-! Last modified: 2024-05-07T22:43:25.476Z
+! Last modified: 2024-05-08T11:12:16.848Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
